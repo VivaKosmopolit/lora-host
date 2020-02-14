@@ -173,12 +173,24 @@
         height: 40px;
     }
 
+    .price-section {
+        margin-bottom: 5%;
+    }
+
     .widget-wrapper>:last-child { margin-left: 0; }
 }
 
 @media screen and (max-width: 780px) {
     footer {
         height: 100%;
+    }
+
+    .service-section .choose-item {
+        margin-bottom: 0;
+    }
+
+    .price-section {
+        margin-bottom: 20%;
     }
 }
 

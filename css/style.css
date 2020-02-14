@@ -496,6 +496,10 @@ form {
     color: #fff;
 }
 
+.prices-group>:first-child{
+    display: block;
+}
+
 
 .prices-group>:nth-child(2) {
     margin: 0 30px;
